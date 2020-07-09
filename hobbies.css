@@ -1,0 +1,100 @@
+body{
+background-image: url(https://flevix.com/wp-content/uploads/2019/08/Wallpaper-1.jpg);
+background-position: center;
+background-size:cover;
+}
+
+h1{
+
+	font-family: 'Sahitya', serif;
+	color: #D3A96B;
+	font-size: 75;
+	padding-left: 40px;
+	border-color: transparent;
+
+}
+.under{
+	transition: all 2s;
+
+}
+
+
+.voice 
+{	border: double white;
+	 border-width: 1px;
+	display: block;
+	margin-right:auto;
+	margin-left:auto;
+	width:20%;
+	height:20%;
+	-moz-box-shadow:4px 4px 5px #888888;
+	-ms-box-shadow: 4px 4px 5px #888888;
+	-webkit-box-shadow: 4px 4px 5px #888888;
+	-o-box-shadow: 4px 4px 5px #888888;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 10px;
+	transition: all 2s;
+}
+
+.center:hover{
+	transform:scale(1.1);
+	
+
+}
+
+h2{
+	color: #3E2300;
+	font-family: 'Sahitya', serif;
+	font-size: 48;
+	text-align: center;
+	margin: 50px;
+}
+
+p{
+ 	color:#CFB99C;
+	font-family: 'Dancing Script', cursive;
+	font-size: 36;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border-radius: 250px;
+	border-bottom-color: white;
+}
+.podcasts,.book, .blog{
+	border: double white;
+	 border-width: 1px;
+	display: block;
+	margin-right:auto;
+	margin-left:auto;
+	width:20%;
+	height:20%;
+	-moz-box-shadow:4px 4px 5px #888888;
+	-ms-box-shadow: 4px 4px 5px #888888;
+	-webkit-box-shadow: 4px 4px 5px #888888;
+	-o-box-shadow: 4px 4px 5px #888888;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 10px;
+	transition: all 2s;
+
+}
+
+.wbo{
+	font-size: 16px;
+	 background-color: white;
+  border-color: transparent;
+  outline-width: 10px;
+  padding:5px;
+ font-family: 'Cinzel', serif;
+ text-align: center;
+ color: red;
+ display: block;
+	margin-right:auto;
+	margin-left:auto;
+
+}
+.end{
+
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
